@@ -7,6 +7,7 @@ export default function MeetupItem(props) {
   const favoriteCtx = useContext(FavoritesContext);
   const itemIsFavorite = favoriteCtx.itemIsFavorite(props.id);
 
+
   function toggleFavoritesHandler() {
     if(itemIsFavorite) {
       favoriteCtx.removeFavorite(props.id);

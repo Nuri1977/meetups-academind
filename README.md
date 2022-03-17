@@ -2,6 +2,8 @@
 
 This is project of Acedimind Udemy complete course on React.
 
+![screenshot](./src/meetups.jpg)
+
 ## Built With
 
 - ReactJS
