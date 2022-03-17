@@ -1,6 +1,6 @@
-# Food order Application
+# Meetups
 
-This is project of Acedimind Udemy complete course on React.
+This is a project of Acedimind youtube tutorial on React https://www.youtube.com/watch?v=Dorf8i6lCuk.
 
 ![screenshot](./src/meetups.jpg)
 
